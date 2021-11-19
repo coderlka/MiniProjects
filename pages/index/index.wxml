@@ -1,4 +1,5 @@
 <!--index.wxml-->
 <text>Hello World</text>
 <Button>点击</Button>
-
+<view>1.知识点1</view>
+<view>大苏打</view>
