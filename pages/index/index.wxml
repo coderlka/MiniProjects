@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<text>Hello World</text>
+<Button>点击</Button>
+
